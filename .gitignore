@@ -1,0 +1,7 @@
+**/secrets.*.yml
+.idea
+.serverless
+.volumes
+.webpack
+dist
+node_modules
