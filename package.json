@@ -18,7 +18,7 @@
     "moment": "2.24.0",
     "mongoose": "5.9.6",
     "mongoose-timestamp": "0.6.0",
-    "node-fetch": "2.6.0",
+    "node-fetch": "2.6.1",
     "request": "2.88.2",
     "request-promise": "4.2.5",
     "serverless-http": "2.3.2"
